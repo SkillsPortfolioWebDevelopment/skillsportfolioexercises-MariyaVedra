@@ -1,0 +1,32 @@
+body
+{
+    font-family: Georgia, serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    color: blueviolet;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: darkblue;
+}
+
+h4 {
+    font-size: 19px;
+    text-align: center;
+}
+
+p {
+    line-height: 1.3rem;
+    font-size: 15px;
+    text-align: center;
+}
+.par1 {
+    line-height: 1.3rem;
+    font-size: 17px;
+    text-align: center;
+}
