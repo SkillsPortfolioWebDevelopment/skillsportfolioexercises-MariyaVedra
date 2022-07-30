@@ -1,0 +1,18 @@
+.forest{
+  float:left;
+  width:300px;
+  height:250px;
+}
+.forest2{
+  float:left;
+  width:300px;
+  height:250px;
+}
+.waterfall{
+  float:left;
+  width:300px;
+  height:250px;
+}
+body{
+  background-color:#90E4C1;
+}
