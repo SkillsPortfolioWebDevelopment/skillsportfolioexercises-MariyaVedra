@@ -1,0 +1,13 @@
+.border{
+  display:block; margin: 0 auto;
+  width:1000px;
+
+}
+video{
+  width:1000px;
+  height:750px;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+}
